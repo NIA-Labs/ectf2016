@@ -1,0 +1,6 @@
+Decryption as a Service
+
+Shawty set up a decryption service for his homies. Plz rek it.
+
+Files: challenge.py, flag.encrypted
+Hosted at: 35.161.87.33:18734
